@@ -1,3 +1,2 @@
 # blogs
-
-store blog files
+hainan's blogs
